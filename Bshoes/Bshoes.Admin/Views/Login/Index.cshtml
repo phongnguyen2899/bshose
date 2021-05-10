@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Login Bshoes</title>
+    </head>
+    <body>
+        <div>
+            <form method="post">
+                <input type="text" name="username" />
+                <input type="text" name="password" />
+                <input type="submit" />
+                <button id="test"></button>
+                <button id="test1"></button>
+            </form>
+        </div>
+    </body>
+</html>
+<script>
+    /*
+    let formData = new FormData();
+    formData.append('Username', 'John');
+    formData.append('Password', 'John123');
+    
+    document.getElementById('test').onclick = function (e) {
+
+        const data = { Username: 'phong',Password:'12345' };
+
+        fetch('http://localhost:5000/api/Users/authenticate', {
+            method: 'POST', // or 'PUT'
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+        })
+            .then(function (response) {
+                console.log(response.status)
+                if (response.status == 200) {
+                    window.location.href = "/Home/index";
+                }
+                return response.json()
+            })
+            .then(data => {
+                localStorage.setItem('token', data.jwtToken);
+                console.log(data)
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        e.preventDefault();
+    }
+
+
+    document.getElementById('test1').onclick = function (e) {
+        const myHeaders = new Headers();
+
+        myHeaders.append('Content-Type', 'application/json');
+        myHeaders.append('Authorization', `Bearer ${localStorage.getItem('token')}`);
+
+         fetch('http://localhost:5000/api/Product/1', {
+            method: 'GET',
+            headers: myHeaders,
+        })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        e.preventDefault();
+    }*/
+</script>

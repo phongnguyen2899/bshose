@@ -1,0 +1,28 @@
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.deps.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csprojAssemblyReference.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.AssemblyInfoInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.AssemblyInfo.cs
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csproj.CoreCompileInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csproj.CopyComplete
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.deps.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Service.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csprojAssemblyReference.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.AssemblyInfoInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.AssemblyInfo.cs
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csproj.CoreCompileInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.csproj.CopyComplete
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Service\obj\Debug\netcoreapp3.1\Bshoes.Service.pdb

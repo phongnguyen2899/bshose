@@ -1,0 +1,24 @@
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.csprojAssemblyReference.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.AssemblyInfoInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.AssemblyInfo.cs
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.csproj.CoreCompileInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.deps.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.runtimeconfig.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.runtimeconfig.dev.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.genruntimeconfig.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.deps.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.runtimeconfig.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.runtimeconfig.dev.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.csprojAssemblyReference.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.AssemblyInfoInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.AssemblyInfo.cs
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.csproj.CoreCompileInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Data\obj\Debug\netcoreapp3.1\Bshoes.Data.genruntimeconfig.cache

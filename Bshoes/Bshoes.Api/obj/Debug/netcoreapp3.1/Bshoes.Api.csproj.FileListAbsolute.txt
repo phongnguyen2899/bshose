@@ -1,0 +1,160 @@
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csprojAssemblyReference.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.AssemblyInfoInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.AssemblyInfo.cs
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csproj.CoreCompileInputs.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.exe
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.deps.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.runtimeconfig.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.runtimeconfig.dev.json
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\staticwebassets\Bshoes.Api.StaticWebAssets.Manifest.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\staticwebassets\Bshoes.Api.StaticWebAssets.xml
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bshoes.Api.styles.css
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.RazorTargetAssemblyInfo.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.genruntimeconfig.cache
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Service.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Service.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.pdb
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csproj.CopyComplete
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.exe
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.deps.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.runtimeconfig.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.runtimeconfig.dev.json
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Api.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Data.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Service.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Data.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.Service.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\bin\Debug\netcoreapp3.1\Bshoes.ViewModel.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csprojAssemblyReference.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.AssemblyInfoInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.AssemblyInfo.cs
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csproj.CoreCompileInputs.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\staticwebassets\Bshoes.Api.StaticWebAssets.Manifest.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\staticwebassets\Bshoes.Api.StaticWebAssets.xml
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bshoes.Api.styles.css
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.RazorTargetAssemblyInfo.cache
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.csproj.CopyComplete
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.dll
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.pdb
+D:\Data old\LearnToWeb\Asp.net core\Bshoes\Bshoes.Api\obj\Debug\netcoreapp3.1\Bshoes.Api.genruntimeconfig.cache
